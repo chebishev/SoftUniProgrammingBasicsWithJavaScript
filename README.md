@@ -1,4 +1,4 @@
-All the excersizes from my education in SoftUni.bg https://softuni.bg/ - Entry Module - 2021
+All the excersizes from my education in SoftUni.bg https://softuni.bg/ - Entry Module January 2021
 
 SoftUni is one of the largest and most respected educational institutions, providing training and career support in the fields of software engineering, digital marketing and design.
 
